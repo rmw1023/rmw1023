@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rmw1023
 - 👀 I’m interested in AI and Software developing
 - 🌱 I’m currently learning Python, Powershell and MySQL.
-- 💞️ I’m looking to collaborate on any projects for teaching AI so that I can learn by doing.
+- 💞️ I am employed in Healthcare IT.
 - 📫 How to reach me laconiconly@gmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
